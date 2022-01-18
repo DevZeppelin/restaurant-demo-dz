@@ -41,8 +41,8 @@ export default function Home() {
 
         <div className="flex">
           <div className=" w-1/5">
-            <img src="/heineken.png" alt="heineken" className="p-4 md:p-8" />
-            <img src="/cocacola.png" alt="heineken" className="p-4 md:p-8" />
+            <img src="/heineken.png" alt="heineken" className="p-5 md:p-8" />
+            <img src="/cocacola.png" alt="heineken" className="p-5 md:p-8" />
           </div>
 
           <div className="w-3/5 md:grid md:grid-cols-2">
